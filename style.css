@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto';
+}
+
+.btn-custom{
+    background-color: rgb(55, 97, 175);
+    color: white;
+}
+
+.text-custom{
+    color: rgb(55, 97, 175);
+}
+
+.relative-img{
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+}
+
+
+
+.hero{
+    color: white;
+    background-image: url('images/bg-1.jpg');
+    padding: 100px 50px;
+}
+
+
+
+.intro{
+    background-color: rgba(55, 97, 175, 0.397);
+    padding: 20px 50px;
+}
+
+.intro>h3{
+    font-weight: 500;
+}
+
+.about{
+    background-image: url('images/icons/main_bg.svg');
+    background-attachment: fixed;
+    padding: 120px 100px;
+}
